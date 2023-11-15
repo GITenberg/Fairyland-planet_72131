@@ -1,0 +1,31 @@
+_repo: Fairyland-planet_72131
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kluga, Richard
+    alias: Kluga, Richard Paul
+    gutenberg_agent_id: '56288'
+    url: http://www.gutenberg.org/2009/agents/56288
+creator:
+  author:
+    agent_name: Silletto, John
+    gutenberg_agent_id: '56554'
+    url: http://www.gutenberg.org/2009/agents/56554
+description: ''
+gutenberg_issued: '2023-11-14'
+identifiers:
+  gutenberg: '72131'
+language: en
+pgterms:marc905: 20230916123737silletto
+pgterms:marc906: '1958'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1958.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fairyland planet
+url: http://www.gutenberg.org/ebooks/72131
